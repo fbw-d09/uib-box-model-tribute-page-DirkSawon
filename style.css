@@ -48,6 +48,13 @@ img
     border-radius:3px;
 }
 
+.image-licence
+{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 10px;
+}
+
 cite
 {
     font-size:18px;

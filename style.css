@@ -36,7 +36,7 @@ main
     padding: 20px;
     background-color: rgb(209, 206, 206);
     width:91%;
-    height:500px;
+    height:auto;
     border-radius: 5px;
 }
 
@@ -61,5 +61,38 @@ cite
 
 ul
 {
+    margin-left: 175px;
+    list-style-type:none;
+    /* margin */
+}
 
+li
+{
+    padding: 5px;
+}
+
+.citation
+{
+    margin: 0 auto;
+    border-radius: 3px;
+    background-color: rgb(223, 221, 221);
+    font-size: 18px;
+    font-weight:normal;
+    width:53.2em;
+    height: auto;
+    padding: 15px 50px 15px 50px;
+    
+}
+
+footer
+{
+    margin: 0 auto;
+    width: 99%;
+    height: auto;
+    background-color: yellow;
+    text-align: center;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-top: 5px;
+    margin-bottom: 7px;
 }
